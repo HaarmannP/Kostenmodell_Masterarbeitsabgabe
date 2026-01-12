@@ -86,22 +86,39 @@ Die Ergebnisse der einzelnen Verfahren werden getrennt gespeichert und ausgewert
 ## Verzeichnisstruktur (Auszug)
 
 python for github
+
 ├── README.md
+
 ├── Kostenmodell v9
+
 │ ├── *.ipynb
+
 │ ├── Prozesslaufzeiten und Konfig *.xlsx
+
 │ ├── Grafiken
+
 │ ├── Grafiken 2h je VDI
+
 │ ├── Grafiken 200h je VDI
+
 │ ├── JSON
+
 │ ├── JSON2h
+
 │ └── JSON200h
+
 ├── Kostenmodell x10
+
 │ ├── Kostenmodell x10.ipynb
+
 │ ├── JSONx10
+
 │ └── Grafiken x10
+
 └── Prozesszuweisung
+
 └── *.ipynb
+
 
 
 ---
